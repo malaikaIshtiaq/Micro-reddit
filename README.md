@@ -13,3 +13,6 @@
 <br>
 ### reCaptcha support
 ![](https://res.cloudinary.com/malaika/image/upload/v1537210995/Screenshot_2018-09-17_Micro_Reddit_6.png)
+<br>
+# Installation
+* 
